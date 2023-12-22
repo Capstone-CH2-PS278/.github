@@ -1,4 +1,4 @@
-# Recipefy : Identify, Find, and Share Recipes #
+# **Recipefy : Identify, Find, and Share Recipes** #
 
 ![Nama Alternatif Gambar](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/1.png)
 
