@@ -1,4 +1,3 @@
-
 # Recipefy : Identify, Find, and Share Recipes #
 
 ![Nama Alternatif Gambar](https://www.teakpalace.com/image/cache/catalog/artikel/gambar-makanan-paling-enak-sate-kambing-1000x750h.jpg)
@@ -51,7 +50,7 @@ A few features has on this app : <br>
 * MMVM
 
 # OUR TEAM
-
+![Search Recipes](../images/team.png)
 Member Name :
 * (ML) M312BSX1603 | Dheanera Fairuz Hasna | Machine Learning | Universitas Sebelas Maret |
 * (ML) M312BSY1208 | Bintang Ramadhan | Machine Learning | Universitas Sebelas Maret 
