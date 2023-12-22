@@ -14,7 +14,7 @@ Our multifaceted app is a comprehensive solution for culinary enthusiasts, stude
   
 # FEATURES
 A few features has on this app : <br>
-1. Login & Signup<br>
+** 1. Login & Signup<br> **
 ![Login & Signup ](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/login.png) <br><br>
 
 2. Object Detection<br>
