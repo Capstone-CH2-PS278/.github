@@ -50,7 +50,7 @@ A few features has on this app : <br>
 * MMVM
 
 # OUR TEAM
-
+![Search Recipes](images/2.png)
 Member Name :
 * (ML) M312BSX1603 | Dheanera Fairuz Hasna | Machine Learning | Universitas Sebelas Maret |
 * (ML) M312BSY1208 | Bintang Ramadhan | Machine Learning | Universitas Sebelas Maret 
