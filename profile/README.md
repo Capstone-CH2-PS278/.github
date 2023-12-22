@@ -15,22 +15,22 @@ Our multifaceted app is a comprehensive solution for culinary enthusiasts, stude
 # FEATURES
 A few features has on this app : <br>
 1. Login & Signup<br>
-![Login & Signup ](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/login.png)
+![Login & Signup ](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/login.png)<br>
 
 2. Object Detection<br>
-![Object Detection](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/objectDetection.png)
+![Object Detection](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/objectDetection.png)<br>
 
 3. Search Recipes<br>
-![Search Recipes](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/search.png)
+![Search Recipes](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/search.png)<br>
 
 4. All Recipe<br>
-![All Recipe](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/allrecipe.png)
+![All Recipe](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/allrecipe.png)<br>
 
 5. Favorite<br>
-![Favorite](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/favorite.png)
+![Favorite](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/favorite.png)<br>
 
 6. Recipe recommendations based on ingredients<br>
-![Recipe recommendations based on ingredients](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/ingredients.png)
+![Recipe recommendations based on ingredients](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/ingredients.png)<br>
 
 
 # Tools, Service and Libraries
