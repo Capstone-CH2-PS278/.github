@@ -2,8 +2,7 @@
 
 ![Nama Alternatif Gambar](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/1.png)
 
-# Recipefy
-Introduction :
+# Recipefy Introduction
 Our multifaceted app is a comprehensive solution for culinary enthusiasts, students, and budget-conscious individuals seeking a seamless cooking experience. Leveraging cutting-edge technologies, it is divided into three distinct divisions: Machine Learning, Cloud Computing, and Mobile Development. The Machine Learning division empowers users to generate personalized recipes by analyzing available ingredients or even through food image recognition, making meal planning effortless. The Cloud Computing division ensures seamless data storage and retrieval, enabling users to access their favorite recipes and ingredient lists from the device. The Mobile Development division provides an intuitive and user-friendly interface for easy navigation and interaction, making the app accessible on smartphones and tablets. This app is designed to revolutionize home cooking, offering convenience, efficiency, and culinary creativity all in one package
 
 # Table of Contents
