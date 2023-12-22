@@ -49,6 +49,8 @@ A few features has on this app : <br>
 * Retrofit 2  
 * MMVM
 
+* User Manual
+
 # OUR TEAM
 ![Search Recipes](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/team.png)
 Member Name :
