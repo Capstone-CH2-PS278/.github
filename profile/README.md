@@ -15,22 +15,22 @@ Our multifaceted app is a comprehensive solution for culinary enthusiasts, stude
 # FEATURES
 A few features has on this app : <br>
 1. Login & Signup
-![Login & Signup ](image/)
+![Login & Signup ](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/login.png)
 
 2. Object Detection
-![Object Detection](image/)
+![Object Detection](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/objectDetection.png)
 
 3. Search Recipes
-![Search Recipes](image/)
+![Search Recipes](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/search.png)
 
 4. All Recipe
-![All Recipe](image)
+![All Recipe](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/allrecipe.png)
 
 5. Favorite
-![Favorite](image/)
+![Favorite](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/favorite.png)
 
 6. Recipe recommendations based on ingredients
-![Recipe recommendations based on ingredients](image/)
+![Recipe recommendations based on ingredients](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/ingredients.png)
 
 
 # Tools, Service and Libraries
