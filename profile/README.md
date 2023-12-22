@@ -14,27 +14,41 @@ Our multifaceted app is a comprehensive solution for culinary enthusiasts, stude
   
 # FEATURES
 A few features has on this app : <br>
-<div align="center">
-  
 **1. Login & Signup** <br>
-<img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/login.png" alt="Login & Signup" width="200"><br><br>
+<p align="center">
+  <img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/login.png" alt="Login & Signup" width="200">
+</p>
+<br><br>
 
 **2. Object Detection** <br>
-<img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/objectDetection.png" alt="Object Detection" width="200"><br><br>
+<p align="center">
+  <img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/objectDetection.png" alt="Object Detection" width="200">
+</p>
+<br><br>
 
 **3. Search Recipes** <br>
-<img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/search.png" alt="Search Recipes" width="200"><br><br>
+<p align="center">
+  <img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/search.png" alt="Search Recipes" width="200">
+</p>
+<br><br>
 
 **4. All Recipe** <br>
-<img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/allrecipe.png" alt="All Recipe" width="200"><br><br>
+<p align="center">
+  <img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/allrecipe.png" alt="All Recipe" width="200">
+</p>
+<br><br>
 
 **5. Favorite** <br>
-<img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/favorite.png" alt="Favorite" width="200"><br><br>
+<p align="center">
+  <img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/favorite.png" alt="Favorite" width="200">
+</p>
+<br><br>
 
 **6. Recipe recommendations based on ingredients** <br>
-<img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/ingredients.png" alt="Recipe recommendations based on ingredients" width="200"><br><br>
-
-</div>
+<p align="center">
+  <img src="https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/ingredients.png" alt="Recipe recommendations based on ingredients" width="200">
+</p>
+<br><br>
 
 
 # Tools, Service and Libraries
