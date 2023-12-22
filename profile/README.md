@@ -9,7 +9,6 @@ Our multifaceted app is a comprehensive solution for culinary enthusiasts, stude
   * Introduction
   * Features
   * Tools, Service and Libraries
-  * User Manual
   * Our Team
   
 # FEATURES
