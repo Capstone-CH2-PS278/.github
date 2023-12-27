@@ -6,10 +6,11 @@
 Our multifaceted app is a comprehensive solution for culinary enthusiasts, students, and budget-conscious individuals seeking a seamless cooking experience. Leveraging cutting-edge technologies, it is divided into three distinct divisions: Machine Learning, Cloud Computing, and Mobile Development. The Machine Learning division empowers users to generate personalized recipes by analyzing available ingredients or even through food image recognition, making meal planning effortless. The Cloud Computing division ensures seamless data storage and retrieval, enabling users to access their favorite recipes and ingredient lists from the device. The Mobile Development division provides an intuitive and user-friendly interface for easy navigation and interaction, making the app accessible on smartphones and tablets. This app is designed to revolutionize home cooking, offering convenience, efficiency, and culinary creativity all in one package
 
 # Table of Contents
-  * Introduction
-  * Features
-  * Tools, Service and Libraries
-  * Our Team
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Tools, Service and Libraries](#tools-service-and-libraries)
+4. [APP Demo](#App-Demo)
+5. [Our Team](#our-team)
   
 # FEATURES
 A few features has on this app : <br>
@@ -65,7 +66,10 @@ A few features has on this app : <br>
 * Retrofit 2  
 * MMVM
 
-* User Manual
+# APP Demo
+  [Download here](https://drive.google.com/drive/folders/1ROD49KjlayF9pf9-9wC_hje_J_sVRhTA?usp=sharing) or  [Download here](https://drive.google.com/file/d/188MSwtaj_6bejiw2GaANTilDiiQ5bxk4/view?usp=sharing)
+  
+
 
 # OUR TEAM
 ![Search Recipes](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/team.png)
