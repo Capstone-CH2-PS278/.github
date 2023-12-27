@@ -67,7 +67,7 @@ A few features has on this app : <br>
 * MMVM
 
 # APP Demo
-  [Download here]([https://drive.google.com/drive/folders/1ROD49KjlayF9pf9-9wC_hje_J_sVRhTA?usp=sharing))
+  [Download here](https://drive.google.com/drive/folders/1ROD49KjlayF9pf9-9wC_hje_J_sVRhTA?usp=sharing)
 
 
 # OUR TEAM
