@@ -9,7 +9,8 @@ Our multifaceted app is a comprehensive solution for culinary enthusiasts, stude
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Tools, Service and Libraries](#tools-service-and-libraries)
-4. [Our Team](#our-team)
+4. [APP Demo](#App-Demo)
+5. [Our Team](#our-team)
   
 # FEATURES
 A few features has on this app : <br>
@@ -65,7 +66,9 @@ A few features has on this app : <br>
 * Retrofit 2  
 * MMVM
 
-* User Manual
+# APP Demo
+  [Download here](https://link_website_anda)
+
 
 # OUR TEAM
 ![Search Recipes](https://storage.googleapis.com/recipefy-407103.appspot.com/images/profile/team.png)
